@@ -8,4 +8,4 @@ E:\proj\hyde2\target\release\extract --uncooked --steam -o E:\proj\CrimeBoss `
   -a /Game/00_Main/UI/MainMenu/UMG_UnlocksHubScreen `
   -a /Game/00_Main/Core/UI/Menus/UMG_SystemMenu `
   -a /Game/00_Main/Core/UI/Menus/Settings/UMG_SettingsMenu `
-  --and-deps --stub-materials --material-debug-allow-incomplete @remaining
+  --and-deps --stub-materials --stub-bps --material-debug-allow-incomplete @remaining
