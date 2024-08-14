@@ -8,4 +8,7 @@ E:\proj\hyde2\target\release\extract --uncooked --steam -o E:\proj\CrimeBoss --a
   -a /Game/00_Main/UI/MainMenu/UMG_UnlocksHubScreen `
   -a /Game/00_Main/Core/UI/Menus/UMG_SystemMenu `
   -a /Game/00_Main/Core/UI/Menus/Settings/UMG_SettingsMenu `
+  -a /Game/00_Main/Equipment/ThrowingKnife/BP_ThrowingKnifeProjectile `
+  -a /Game/00_Main/Core/DamageTypes/BP_DT_Explosion_Grenade `
+  -a /Game/00_Main/Core/Tables/Impacts/Shot/ID/BP_ImpactShot_Shuriken `
   @remaining
